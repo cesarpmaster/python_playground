@@ -1,2 +1,2 @@
-# python_playground
+# My Python Playground
 Python learning space
